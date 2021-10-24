@@ -5,7 +5,7 @@ title: Developer Portfolio
 # Developer Portfolio
 Hong Son's Developer Portfolio
 
-# [Project (2020): Board & Shield](boardandshield.com)
+# [Project (2020): Board & Shield](https://www.boardandshield.com)
 _Board & Shield is a 2-4 player competitive arena game focused on skateboarding & jousting_
 
 * Collaborated closely with a team of 4 developers, 6 designers, and a project manager
@@ -14,11 +14,11 @@ _Board & Shield is a 2-4 player competitive arena game focused on skateboarding 
 * Fixed bugs in development and production 
 * Ensured website functionality, monitor assets, and report on website performance  
 
-### [For More Details](http://www.cci.drexel.edu/seniordesign/2019_2020/Board-Shield/Board-Shield-index.html)
+### [For More Details](https://www.cci.drexel.edu/seniordesign/2019_2020/Board-Shield/Board-Shield-index.html)
 
 _Board & Shield Teaser:_
 
-<video width="1280" height="720" controls>
+<video width="640" height="360" controls>
   <source src="boardandshield.mp4" type="video/mp4">
 </video>
 
@@ -32,9 +32,9 @@ signals from game controllers and other devices._
 
 
 _COOLTROLLERS MIDI Test:_
-<video width="1280" height="720" controls>
+<video width="640" height="360" controls>
   <source src="midi.mp4" type="video/mp4">
 </video>
 
 _COOLTROLLERS Gannt Chart:_
-<embed src="ci-103project-gantt.pdf" />
+<embed src="ci-103project-gantt.pdf" width="800px" height="2100px"/>
