@@ -1,23 +1,44 @@
 <!DOCTYPE html>
 <html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create three equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+</head>
 <body>
 <h1>Portfolio</h1>
 <hr>
-<p> Hong Son's Portfolio </p>
-
-<p> Project (Year): Project Name  </p>
-<hr>
-<p> Bullets here </p>
-<p> For More Details </p>
-<p> Snippet from Notebook: </p>
-
-<p> Project (Year): Project Name  </p>
-<hr>
-<p> Bullets here </p>
-<p> For More Details </p>
-<p> Snippet from Notebook: </p>
-
-
-
+<div class="row">
+  <div class="column" style="background-color:white;">
+    <h2>Data Science</h2>
+	  <a href="https://hongson6.github.io/data_science"><img src="ds.png" alt="DS" style="width:100%"></a>
+  </div>
+  <div class="column" style="background-color:white;">
+    <h2>Developer</h2>
+    <a href="https://hongson6.github.io/developer"><img src="ds.png" alt="DEV" style="width:100%"></a>
+  </div>
+  <div class="column" style="background-color:white;">
+    <h2>HCI and UX</h2>
+    <a href="https://hongtson.wordpress.com/"><img src="hci.png" alt="HCI" style="width:100%"></a>
+  </div>
+</div>
 </body>
 </html>
