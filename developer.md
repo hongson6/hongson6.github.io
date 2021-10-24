@@ -37,4 +37,4 @@ _COOLTROLLERS MIDI Test:_
 </video>
 
 _COOLTROLLERS Gannt Chart:_
-<embed src="ci-103project-gantt.pdf" width="800px" height="2100px"/>
+<embed src="ci-103project-gantt.pdf" width="800px" height="1200px"/>
