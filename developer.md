@@ -22,7 +22,7 @@ _Board & Shield Teaser:_
   <source src="boardandshield.mp4" type="video/mp4">
 </video>
 
-# [Project (2017): COOLTROLLERS]
+# [Project (2017): COOLTROLLERS](https://docs.google.com/presentation/d/16R4LUI-qOwJBNJisoEVw38pIHk-HLPl5NbAYV_tO4Xc/edit?usp=sharing)
 _COOLTROLLERS is intended to bridge the gap between those interested in music production
 and the already-proficient ones. Users will have the ability to produce music and MIDI
 signals from game controllers and other devices._
