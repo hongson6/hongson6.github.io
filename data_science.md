@@ -41,4 +41,4 @@ _New Groupings:_
 ### [For More Details](https://github.com/hongson6/Predicting-Accident-Severity#readme)
 
 _snippet from Notebook:_
-<img scr="assets/model_comparison.png" alt="Models"> 
+<img src="assets/model_comparison.png" alt="Models">
