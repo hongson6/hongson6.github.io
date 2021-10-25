@@ -29,6 +29,7 @@ _CNN process:_
 ### [For More Details](https://github.com/hongson6/Crime-in-Philadelphia#readme)
 
 _New Groupings:_
+
 <img src="assets/optimize_ml.png" alt="Groups" width="600" height="345">
 
 # [Project (2019): Predicting Accident Severity](https://github.com/hongson6/Predicting-Accident-Severity)
@@ -42,4 +43,5 @@ _New Groupings:_
 ### [For More Details](https://github.com/hongson6/Predicting-Accident-Severity#readme)
 
 _snippet from Notebook:_
+
 <img src="assets/model_comparison.png" alt="Models" width="600" height="345">
