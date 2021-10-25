@@ -15,7 +15,7 @@ Hong Son's Data Science Portfolio
 ### [For More Details](https://github.com/hongson6/Tensorflow-Gemstone-Classification#readme)
 
 _CNN process:_
-<img scr="assets/cnn.png"> 
+<img src="assets/cnn.png" alt="CNN">
 
 
 # [Project (2020-2021): Crime in Philadelphia](https://github.com/hongson6/Crime-in-Philadelphia)
@@ -28,7 +28,7 @@ _CNN process:_
 ### [For More Details](https://github.com/hongson6/Crime-in-Philadelphia#readme)
 
 _New Groupings:_
-<img scr="assets/optimize_ml.png"> 
+<img src="assets/optimize_ml.png" alt="Groups">
 
 # [Project (2019): Predicting Accident Severity](https://github.com/hongson6/Predicting-Accident-Severity)
 * Prepared the data for EDA by cleansing and merging the data with casualties and parking vechicle data
@@ -41,4 +41,4 @@ _New Groupings:_
 ### [For More Details](https://github.com/hongson6/Predicting-Accident-Severity#readme)
 
 _snippet from Notebook:_
-<img scr="assets/model_comparison.png"> 
+<img scr="assets/model_comparison.png" alt="Models"> 
