@@ -40,8 +40,8 @@ _New Groupings:_
 * Ultized KNN, Linear Discriminant Analysis, Random Forest models (supervised) to to predict accident severity
 * Determined Random Forest to be the best applicable model, achieving classification accuracy score of 0.80 through 10 folds cross validation
 
-### [For More Details](https://github.com/hongson6/Predicting-Accident-Severity#readme)
+### [For More Details](https://docs.google.com/presentation/d/1JEkXNDNjnCQC1EW4ws0GsdIt-N84VtjD9HVhGMuGWlw/edit?usp=sharing)
 
-_snippet from Notebook:_
+_snippet from Presentation:_
 
 <img src="assets/model_comparison.png" alt="Models" width="600" height="345">
