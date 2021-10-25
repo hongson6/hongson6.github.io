@@ -5,19 +5,17 @@ title: Data Science Portfolio
 # Portfolio
 Hong Son's Data Science Portfolio
 
-# [Project (2021): Tensorflow Gemstone Classification](https://github.com/hongson6/Crime-in-Philadelphia)
+# [Project (2021): Tensorflow Gemstone Classification](https://github.com/hongson6/Tensorflow-Gemstone-Classification)
 * Load, resized, and cleansed the gemstone data 
 * Researched Convolutional Neural Networks (CNN) and the possible uses for gemstone image classification
 * Utilized VGG16 Model (pre-trained CNN Model) for image classification
 * Utilized CNN Model (own CNN Model) for image classification
 * Determined our own train CNN Model to be the best applicable model, achieving classification accuracy score of 0.49 with only 18 epochs. 
 
-### [For More Details](https://github.com/hongson6/Crime-in-Philadelphia#readme)
+### [For More Details](https://github.com/hongson6/Tensorflow-Gemstone-Classification#readme)
 
 _CNN process:_
-
-<!-- <img src="https://user-images.githubusercontent.com/34199193/123129154-bae87700-d419-11eb-854a-0ef14755cca6.gif">
- -->
+<img scr="assets/cnn.png"> 
 
 
 # [Project (2020-2021): Crime in Philadelphia](https://github.com/hongson6/Crime-in-Philadelphia)
@@ -29,10 +27,8 @@ _CNN process:_
 
 ### [For More Details](https://github.com/hongson6/Crime-in-Philadelphia#readme)
 
-_snippet from Notebook:_
-
-<!-- <img src="https://user-images.githubusercontent.com/34199193/123129154-bae87700-d419-11eb-854a-0ef14755cca6.gif">
- -->
+_New Groupings:_
+<img scr="assets/optimize_ml.png"> 
 
 # [Project (2019): Predicting Accident Severity](https://github.com/hongson6/Predicting-Accident-Severity)
 * Prepared the data for EDA by cleansing and merging the data with casualties and parking vechicle data
@@ -45,8 +41,4 @@ _snippet from Notebook:_
 ### [For More Details](https://github.com/hongson6/Predicting-Accident-Severity#readme)
 
 _snippet from Notebook:_
-
-<!-- <img src="https://user-images.githubusercontent.com/34199193/123129154-bae87700-d419-11eb-854a-0ef14755cca6.gif">
- -->
-
-
+<img scr="assets/model_comparison.png"> 

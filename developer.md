@@ -27,8 +27,8 @@ _COOLTROLLERS is intended to bridge the gap between those interested in music pr
 and the already-proficient ones. Users will have the ability to produce music and MIDI
 signals from game controllers and other devices._
 * Managed marketing and user testing activities
-* Acted as the secondary project manager
-* Ensured website functionality, monitor assets, and report on website performance
+* Aided in the development of the requirements, test, and work schedule documentation
+* Ensured website functionality, monitored assets, and report on website performance
 
 
 _COOLTROLLERS MIDI Test:_
