@@ -2,7 +2,7 @@
 title: Data Science Portfolio
 ---
 
-# Portfolio
+# Data Science Portfolio
 Hong Son's Data Science Portfolio
 
 # [Project (2021): Tensorflow Gemstone Classification](https://github.com/hongson6/Tensorflow-Gemstone-Classification)
