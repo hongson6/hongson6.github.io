@@ -19,7 +19,7 @@ _Board & Shield is a 2-4 player competitive arena game focused on skateboarding 
 _Board & Shield Teaser:_
 
 <video width="640" height="360" controls>
-  <source src="boardandshield.mp4" type="video/mp4">
+  <source src="assets/boardandshield.mp4" type="video/mp4">
 </video>
 
 # [Project (2017): COOLTROLLERS](https://docs.google.com/presentation/d/16R4LUI-qOwJBNJisoEVw38pIHk-HLPl5NbAYV_tO4Xc/edit?usp=sharing)
@@ -33,8 +33,8 @@ signals from game controllers and other devices._
 
 _COOLTROLLERS MIDI Test:_
 <video width="640" height="360" controls>
-  <source src="midi.mp4" type="video/mp4">
+  <source src="assets/midi.mp4" type="video/mp4">
 </video>
 
 _COOLTROLLERS Gannt Chart:_
-<embed src="ci-103project-gantt.pdf" width="800px" height="1200px"/>
+<embed src="assets/ci-103project-gantt.pdf" width="800px" height="1200px"/>
